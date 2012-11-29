@@ -2,17 +2,17 @@
 <application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd">
 
 	<classpath>
-		<dir name="/Users/dmichelotto/Documents/Workspace/IGIPortalStatistics/target/classes">
+		<dir name="/Users/dmichelotto/git/IGIPortalStatistics/target/classes">
 		</dir>
 	</classpath>
 
 	<web>
 		<link target="/">
-			<dir name="/Users/dmichelotto/Documents/Workspace/IGIPortalStatistics/target/m2e-wtp/web-resources">
+			<dir name="/Users/dmichelotto/git/IGIPortalStatistics/target/m2e-wtp/web-resources">
 			</dir>
 		</link>
 		<link target="/">
-			<dir name="/Users/dmichelotto/Documents/Workspace/IGIPortalStatistics/src/main/webapp">
+			<dir name="/Users/dmichelotto/git/IGIPortalStatistics/src/main/webapp">
 			</dir>
 		</link>
 	</web>
